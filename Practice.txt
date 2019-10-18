@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello I'm Bui Huy Hieu
 I'm 19 years old
 Tao mới thêm vào
+=======
+Hello I'm Bui Huy Hieu
+>>>>>>> parent of 33b6a3c... Add new line
